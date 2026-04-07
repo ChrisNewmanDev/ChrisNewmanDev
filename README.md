@@ -6,7 +6,7 @@
 
 ## Skills
 - HTML, CSS
-- JavaScript (learning)
+- JavaScript
 - Lua (FiveM scripting)
 
 ## Projects

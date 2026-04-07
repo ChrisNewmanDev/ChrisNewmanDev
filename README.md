@@ -12,6 +12,3 @@
 ## Projects
 - Task Tracker App (https://github.com/ChrisNewmanDev/task-tracker-app)
 - More coming soon...
-
-## Contact
-- zad3m0nza@gmail.com
